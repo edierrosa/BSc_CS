@@ -1,1 +1,1 @@
-BSc Computer Science projects
+# BSc Computer Science Projects
